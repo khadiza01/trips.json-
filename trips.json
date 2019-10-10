@@ -5,8 +5,8 @@
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
         "Time" : "রাত ৯ টা",
         "Date" : "2019-01-02", 
-        "Rating" : "০",
-        "MinBid" : "০"
+        "bidCount" : "০",
+        "lowestBid" : "০"
     },
     {
         "TripID" : "54321",
@@ -14,7 +14,7 @@
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
         "Time" : "রাত ৯ টা",
         "Date" : "2019-01-02", 
-        "Rating" : "৩",
-        "MinBid" : "৮৫০"
+        "bidCount" : "৩",
+        "lowestBid" : "৮৫০"
     }
 ]
