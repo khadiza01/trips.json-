@@ -8,39 +8,12 @@
         "bidCount" : "০",
         "lowestBid" : "০"
     },
-     {
-        "TripID" : "54321",
-        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
-        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
-        "Time" : "রাত ৯ টা",
-        "Date" : "2019-09-16", 
-        "bidCount" : "০",
-        "lowestBid" : "০"
-    },
-     {
-        "TripID" : "54321",
-        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
-        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
-        "Time" : "রাত ৯ টা",
-        "Date" : "2019-09-16", 
-        "bidCount" : "০",
-        "lowestBid" : "০"
-    },
     {
         "TripID" : "54321",
         "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
         "Time" : "রাত ৯ টা",
-        "Date" : "2019-09-14", 
-        "bidCount" : "০",
-        "lowestBid" : "০"
-    },
-    {
-        "TripID" : "54321",
-        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
-        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
-        "Time" : "রাত ৯ টা",
-        "Date" : "2019-09-14", 
+        "Date" : "2019-09-16", 
         "bidCount" : "০",
         "lowestBid" : "০"
     },
@@ -50,6 +23,15 @@
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
         "Time" : "রাত ৯ টা",
         "Date" : "2019-09-15", 
+        "bidCount" : "৩",
+        "lowestBid" : "৮৫০"
+    },
+    {
+        "TripID" : "54321",
+        "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
+        "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
+        "Time" : "রাত ৯ টা",
+        "Date" : "2019-09-14", 
         "bidCount" : "৩",
         "lowestBid" : "৮৫০"
     }
