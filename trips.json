@@ -5,7 +5,8 @@
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
         "Date" : "2019-10-30 17:23:58", 
         "cost" : "$850",
-        "ExpressTrip" : true
+        "ExpressTrip" : true,
+        "Finished" : true,
     },
     {
         "TripID" : "54321",
